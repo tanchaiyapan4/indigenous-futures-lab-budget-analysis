@@ -93,7 +93,7 @@ The project additionally revealed how financial activity was distributed across 
 
 A single Power BI dashboard summarizes all financial activity, giving lab administrators and grant managers a quick, accurate view of budget health without digging through raw spreadsheets.
 
-![Dashboard Screenshot](Images/dashboard for IFL project.png)
+![Dashboard Screenshot](Images/dashboard.png)
 
 **KPI Cards:** Total Funding Received ($69,800) vs. Total Spending ($4.03K) — immediately shows the large gap between funds received and funds spent, which is critical for grant compliance.
 
