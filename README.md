@@ -93,13 +93,13 @@ The project additionally revealed how financial activity was distributed across 
 
 A single Power BI dashboard summarizes all financial activity, giving lab administrators and grant managers a quick, accurate view of budget health without digging through raw spreadsheets.
 
-![Screenshot dashboard IFL](<Screenshot dashboard IFL.png>)
+![Dashboard Screenshot](Images/Screenshot dashboard IFL.png)
 
 **KPI Cards:** Total Funding Received ($69,800) vs. Total Spending ($4.03K) — immediately shows the large gap between funds received and funds spent, which is critical for grant compliance.
 
 **Funding vs Spending by Fiscal Year (Bar Chart):** Compares additions and deductions across FY24, FY25, FY26, and FY25/FY26. FY26 holds the largest funding (~$50K) with minimal spending; FY25/FY26 shows the most spending relative to funding received.
 
-**Largest Individual Expenses (Bar Chart):** Ranks the top transactions by amount, led by a WGSS grad student stipend (~$1,800), sewing supplies (~$1,100), and DCQS/Amazon supplies (~$1,050). Useful for spotting where budget is most concentrated.
+**Largest Individual Expenses (Bar Chart):** Ranks the top transactions by amount, led by a WGSS grad student stipend ($1,800), sewing supplies ($1,100), and DCQS/Amazon supplies ($1,050). Useful for spotting where budget is most concentrated.
 
 **Spending Distribution by Fiscal Year (Donut Chart):** FY25/FY26 accounts for 83.74% ($3.37K) of total spending; FY26 accounts for 16.26% ($0.66K). Highlights that spending is concentrated in a narrow set of fiscal years.
 
